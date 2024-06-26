@@ -1,0 +1,5 @@
+print("이번 'Z 채널'의 bounce rate은 0.3입니다.")
+print('이번 \'Z 채널\'의 bounce rate은 0.3입니다.')
+print("이번 \'Z 채널\'의 bounce rate은 0.3입니다.")
+print('''이번 'Z 채널'의 bounce rate은 0.3입니다.''')
+print("""이번 'Z 채널'의 bounce rate은 0.3입니다.""")
